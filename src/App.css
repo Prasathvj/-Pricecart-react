@@ -1,10 +1,9 @@
 .py-5{
+  display: flex;
   background:linear-gradient(to right,rgb(38, 38, 220),rgb(99, 178, 209));
   border-radius: 10px;
   margin: 50px 10px;
-}
-.row{
-  display: flex;
+
 }
 
 .mb-lg-0{
@@ -21,8 +20,15 @@
 .period{
   font-size: 10px;
 }
+div.card-body{
+  font-size: 15px;
 
+}
+.d-grid{
 
+  height: 30px;
+  display: flex;
+}
 
 
 
