@@ -1,7 +1,7 @@
-import logo from './logo.svg';
+
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Button from 'react-bootstrap/Button';
+
 
 
 function App() {
@@ -16,6 +16,7 @@ function App() {
               <h5 className="card-title text-muted text-uppercase text-center">Free</h5>
               <h6 className="card-price text-center">$0<span className="period">/month</span></h6>
               <hr></hr>
+              <br></br>
               <ul className="fa-ul">
                 <li><span className="fa-li"><i className="fas fa-check"></i></span>Single User</li>
                 <li><span className="fa-li"><i className="fas fa-check"></i></span>5GB Storage</li>
@@ -43,6 +44,7 @@ function App() {
             <h5 className="card-title text-muted text-uppercase text-center">Plus</h5>
             <h6 className="card-price text-center">$9<span className="period">/month</span></h6>
             <hr></hr>
+            <br></br>
             <ul class="fa-ul">
               <li><span class="fa-li"><i class="fas fa-check"></i></span><strong>5 Users</strong></li>
               <li><span class="fa-li"><i class="fas fa-check"></i></span>50GB Storage</li>
@@ -67,6 +69,7 @@ function App() {
             <h5 class="card-title text-muted text-uppercase text-center">Pro</h5>
             <h6 class="card-price text-center">$49<span class="period">/month</span></h6>
             <hr></hr>
+            <br></br>
             <ul class="fa-ul">
               <li><span class="fa-li"><i class="fas fa-check"></i></span><strong>Unlimited Users</strong>
               </li>
