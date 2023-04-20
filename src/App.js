@@ -10,7 +10,7 @@ function App() {
   <section className="pricing py-5">
     <div className='container'>
       <div className='row'>
-        <div className='col-lg-4'>
+        <div className='col-sm-4'>
           <div className="card mb-5 mb-lg-0 bronze">
             <div className="card-body">
               <h5 className="card-title text-muted text-uppercase text-center">Free</h5>
@@ -37,7 +37,7 @@ function App() {
           </div>
         </div>
         
-        <div className="col-lg-4">
+        <div className="col-sm-4">
         <div className="card mb-5 mb-lg-0 silver">
           <div className="card-body">
             <h5 className="card-title text-muted text-uppercase text-center">Plus</h5>
@@ -61,7 +61,7 @@ function App() {
         </div>
       </div>
 
-      <div class="col-lg-4">
+      <div class="col-sm-4">
         <div class="card mb-5 mb-lg-0 ">
           <div class="card-body">
             <h5 class="card-title text-muted text-uppercase text-center">Pro</h5>
