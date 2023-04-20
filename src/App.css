@@ -1,0 +1,33 @@
+.py-5{
+  display: flex;
+  flex-wrap: wrap;
+  background:linear-gradient(to right,rgb(38, 38, 220),rgb(99, 178, 209));
+  margin: 100px;
+  border-radius: 10px;
+ 
+
+}
+.mb-lg-0{
+ transition: 0.2s;
+}
+.mb-lg-0:hover{
+  transform: scale(1.1);
+  z-index: 2;
+  background:linear-gradient(orange,yellow)
+}
+.card-price{
+  font-size: 30px;
+}
+.period{
+  font-size: 10px;
+}
+
+
+
+
+
+  
+
+
+
+
